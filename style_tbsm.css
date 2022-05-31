@@ -1,0 +1,30 @@
+.navbar{
+    background-color: #0d6efd;
+}
+.navbar a img{
+    width: 40px;
+    margin-right: 1rem;
+    margin-bottom: 5px;
+}
+.jumbotron img{
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+}
+body #about{
+    background-color: #0d6efd;
+}
+#galeri{
+    background-color: #0d6efd;
+}
+.footer{
+    background-color: #0d6efd;
+}
+.footer .container a{
+    text-decoration: none;
+}
+section{
+    padding-top: 5rem;
+}
+footer a{
+    color: black;
+}

@@ -1,0 +1,25 @@
+.navbar{
+    background-color: #20c997;
+}
+.navbar a img{
+    width: 40px;
+    margin-right: 1rem;
+    margin-bottom: 5px;
+}
+.jumbotron img{
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+}
+.jumbotron{
+    background-color: #02b17c;
+}
+#galeri{
+    background-color: #02b17c;
+}
+footer a{
+    color: black;
+    text-decoration: none;
+}
+#about, #galeri ,#pekerjaan{
+    padding-top: 5rem;
+}

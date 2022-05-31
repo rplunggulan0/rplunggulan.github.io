@@ -1,0 +1,32 @@
+body .about{
+    background-color: #198754;
+    color: white;
+}
+.about p{
+    font-size: 18px;
+}
+.footer{
+    color: black;
+}
+.col a {
+    text-decoration: none;
+    color: black;
+}
+.foto{
+    margin-top: 10px;
+}
+.navbar a img{
+    width: 40px;
+    margin-right: 1rem;
+    margin-bottom: 5px;
+}
+.jumbotron img{
+    margin-top: 6rem;
+    margin-bottom: 3rem;
+}
+.galeri{
+    background-color: #198754;
+}
+section{
+    padding-top: 5rem;
+}
